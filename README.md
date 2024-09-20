@@ -23,11 +23,8 @@ This repository is part of the coursework for our Object-Oriented Programming (O
 - Class and Object Creation
 - Encapsulation and Access Modifiers
 - Inheritance and Interfaces
-- Polymorphism (Compile-time & Runtime)
+- Polymorphism 
 - Abstraction
-- Exception Handling
-- Collections Framework
-- File I/O
 
 ## 🔍 How to Use
 
