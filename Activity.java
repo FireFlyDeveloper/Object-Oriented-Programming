@@ -7,6 +7,7 @@ public class Activity {
         System.out.println("Address: " + student.getAddress());
         System.out.println("Program: " + student.getProgram());
         System.out.println("Year: " + student.getYear());
+        System.out.println(student.toString());
 
         Staff staff = new Staff("Bobby Diosanta", "Dilaw", "Computer Engineering Technology", 10.0);
 
@@ -15,5 +16,6 @@ public class Activity {
         System.out.println("Address: " + staff.getAddress());
         System.out.println("School: " + staff.getSchool());
         System.out.println("Salary: " + staff.getSalary());
+        System.out.println(staff.toString());
     }
 }

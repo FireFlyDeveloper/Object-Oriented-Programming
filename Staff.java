@@ -24,4 +24,9 @@ public class Staff extends Person {
     public double getSalary() {
         return Salary;
     }
+
+    @Override
+    public String toString () {
+        return  "Hello I am " + Name + " and " + "I lived in " + Address + ". I work at " + School + " with a salary of "+ Salary;
+    }
 }
