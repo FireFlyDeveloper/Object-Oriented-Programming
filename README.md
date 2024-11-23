@@ -25,9 +25,3 @@ This repository is part of the coursework for our Object-Oriented Programming (O
 - Inheritance and Interfaces
 - Polymorphism 
 - Abstraction
-
-## 🔍 How to Use
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/FireFlyDeveloper/OOP-Lab.git
